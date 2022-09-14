@@ -1,2 +1,2 @@
-# ITICPPprojectBankDystem
+# ITICPPprojectBankSystem
 ITI - Cpp project - Bank management system (admin and user)
